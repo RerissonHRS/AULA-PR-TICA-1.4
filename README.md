@@ -30,3 +30,18 @@ O formulário contém validação de campos e preenchimento automático de ender
 - NetBeans IDE
 
 ## Estrutura de Arquivos
+cadUsuario/
+├── index.html
+├── style.css
+├── main.js
+└── validation.js
+
+## Como Executar
+1. Abra o projeto `cadUsuario` no **NetBeans IDE**  
+2. Abra `index.html` no navegador (Google Chrome recomendado)  
+3. Preencha os campos do formulário e observe:
+   - Validação de todos os campos
+   - Preenchimento automático de endereço via API ViaCEP
+
+## Autor
+- **Rerisson Henrique Rodrigues da Silva**
